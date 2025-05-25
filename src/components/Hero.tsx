@@ -23,10 +23,8 @@ const Hero = () => {
               your <span className="text-ex-red">rules</span>
             </h1>
 
-            <p className="text-ex-gray-200 text-xl mb-8 font-roboto">
-              Экстремальный туризм по России.
-              <br />
-              Откройте новые границы возможного.
+            <p className="text-ex-gray-200 text-xl mb-8 font-roboto tracking-wide">
+              fokus on yourself
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">

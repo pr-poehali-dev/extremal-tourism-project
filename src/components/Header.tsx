@@ -8,10 +8,11 @@ const Header = () => {
       <div className="container mx-auto px-4 py-4">
         <nav className="flex items-center justify-between">
           <div className="flex items-center space-x-2">
-            <span className="text-white font-oswald text-3xl font-bold">E</span>
-            <span className="text-ex-red font-oswald text-3xl font-bold">
-              X
-            </span>
+            <img
+              src="https://cdn.poehali.dev/files/a0f44392-65f9-4e4b-a0d8-4bc1b56f61ee.svg"
+              alt="EX Logo"
+              className="h-10 w-auto"
+            />
           </div>
 
           <div className="hidden md:flex items-center space-x-8">
